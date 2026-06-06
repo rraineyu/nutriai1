@@ -1,0 +1,9 @@
+persona,technique,goal_fit,diversity,latency_ms
+Priya,faiss,0.636,1.035,4.1
+Priya,dnn,0.707,1.05,308.1
+Ravi,faiss,0.653,0.916,3.5
+Ravi,dnn,0.689,1.045,1314.5
+Mei,faiss,0.725,0.795,4.2
+Mei,dnn,0.746,1.051,756.6
+James,faiss,0.686,0.823,4.3
+James,dnn,0.794,1.051,766.8

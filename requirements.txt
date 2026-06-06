@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy==1.26.4
+scikit-learn==1.4.2
+faiss-cpu==1.7.4
+fpdf2
+reportlab
+requests
+python-constraint
